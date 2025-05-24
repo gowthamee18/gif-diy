@@ -1,8 +1,10 @@
 # Python DIY-GIF Generator ૮ ˶ᵔ ᵕ ᵔ˶ ა
-![Cinnamonroll GIF](cinnamonroll.gif)
+<p align="center">
+  <img src="cinnamonroll.gif" alt="Cinnamonroll GIF" width="250"/>
+</p>
 This simple project creates an animated GIF from a sequence of PNG images using the `imageio` library in Python. It's a simple and effective way to stitch multiple images into a smooth animation.
 
-Tested and developed using [![***Google Colab***](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowthamee18/gif-diy/blob/main/gif_diy.ipynb)
+Tested and developed using ***Google Colab*** [![***Google Colab***](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowthamee18/gif-diy/blob/main/gif_diy.ipynb)
 
 ## 📁 Files Included
 
