@@ -25,4 +25,4 @@ import imageio.v3 as iio
 filenames = ['1.png', '2.png', '3.png', '4.png', '5.png']
 images = [iio.imread(fname) for fname in filenames]
 
-iio.imwrite('cinnamonroll.gif', images, duration=500, loop=0)
+iio.imwrite('cinnamonroll.gif', images, duration=200, loop=0)
