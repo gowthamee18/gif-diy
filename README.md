@@ -10,6 +10,14 @@ Tested and developed using **Google Colab**.
 - `cinnamonroll.gif`: Output animated GIF
 - `gif_diy.ipynb`: Colab notebook containing the code
 
+  ## 🔧 Setup
+
+In Colab or your Jupyter environment, install the required package:
+
+```python
+!pip3 install imageio
+```
+
 ## 🚀 How to Use
 
 1. Open [`gif_diy.ipynb`](https://colab.research.google.com/) in Google Colab.
@@ -26,3 +34,6 @@ filenames = ['1.png', '2.png', '3.png', '4.png', '5.png']
 images = [iio.imread(fname) for fname in filenames]
 
 iio.imwrite('cinnamonroll.gif', images, duration=200, loop=0)
+```
+
+
