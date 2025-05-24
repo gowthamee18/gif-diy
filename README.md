@@ -22,7 +22,7 @@ In Colab or your Jupyter environment, install the required package:
 !pip3 install imageio
 ```
 
-## 🚀 How to Use
+## ♡ How to Use ♡
 
 1. Open [`gif_diy.ipynb`](https://colab.research.google.com/) in Google Colab.
 2. Upload all the image files (`1.png` to `5.png`) to your Colab session.
