@@ -14,7 +14,7 @@ Tested and developed using ***Google Colab*** [![***Google Colab***](https://col
 - `cinnamonroll.gif`: Output animated GIF
 - `gif_diy.ipynb`: Colab notebook containing the code
 
-  ## 🔧 Setup
+## 🔧 Setup
 
 In Colab or your Jupyter environment, install the required package:
 
