@@ -29,7 +29,7 @@ In Colab or your Jupyter environment, install the required package:
 3. Run the notebook cells.
 4. The script reads the images and creates `cinnamonroll.gif`.
 
-## 🧠 How It Works
+## 💡 How It Works
 
 ```python
 import imageio.v3 as iio
